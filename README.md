@@ -7,10 +7,10 @@ This is the static GitHub Pages site for EditVid, following the separate legal-s
 - `supportPage.html` — Support
 - `styles.css` — shared responsive styling
 
-The intended repository name is `videasy-legal`, matching `wordwiz-legal`. After the repository is created and GitHub Pages is enabled from the `main` branch and repository root, the pages should be available at:
+The public `videasy-legal` repository publishes these pages from the `main` branch and repository root:
 
-- `https://lecoffeeconfit-cmd.github.io/videasy-legal/`
-- `https://lecoffeeconfit-cmd.github.io/videasy-legal/terms.html`
-- `https://lecoffeeconfit-cmd.github.io/videasy-legal/supportPage.html`
+- `https://lecoffeeconfit-cmd.github.io/videasy-legal/` — Privacy Policy
+- `https://lecoffeeconfit-cmd.github.io/videasy-legal/terms.html` — Terms of Use
+- `https://lecoffeeconfit-cmd.github.io/videasy-legal/supportPage.html` — Support
 
-Before using these URLs in a public app listing or build, verify the live pages and review the policy content against the final production SDK settings and App Store privacy answers.
+The site is published over HTTPS. Review the policy content against any future SDK changes and App Store privacy answers before each release.
